@@ -6,9 +6,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maharobhossain&label=Profile%20views&color=0e75b6&style=flat" alt="maharobhossain" /> </p>
 
-- 🔭 I’m currently working on [Ecommerce website](https://bros-collection-shop-bd.netlify.app/)
+- 🔭 I’m currently working on [Typing Practice Game]([https://bros-collection-shop-bd.netlify.app/](https://67f4e0e6b5d979d71035dc0c--glowing-shortbread-85ecd7.netlify.app/))
 
-- 🌱 I’m currently learning **Javascript & React JS.**
+- 🌱 I’m currently learning **React JS.**
 
 - 📫 How to reach me **maharobhossain8880@gmail.com**
 
