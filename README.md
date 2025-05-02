@@ -14,7 +14,7 @@
 
 - 📄 Know about my experiences [Resume]([https://drive.google.com/file/d/1Z_zx-Yvk9Cs8CiEzZmmgtNzYUFs6wruM/view?usp=sharing](https://drive.google.com/file/d/1cWoLoEZ0kqSIRT5bnxWQj91vSemmIo03/view?usp=sharing))
 
-- ⚡ Fun fact **I just believe in eating, coding, reading & traveling etc**
+- ⚡ Fun fact **I just believe in eating, coding & traveling etc**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
